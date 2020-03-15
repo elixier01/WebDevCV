@@ -1,0 +1,53 @@
+.intro {
+    color: rgb(88, 28, 138);
+}
+
+body {
+    background-color: rgb(122, 184, 241);
+    font-family: Comfortaa, sans-serif;
+}
+
+.intro {
+    margin-top: 100px;
+}
+h1,
+h2 {
+    text-align: center;
+    font-family: bellota;
+}
+.mountainimg {
+    display: block;
+    margin: auto;
+}
+
+.cloud1 {
+    position: absolute;
+    top: 50px;
+    right: 90px;
+    z-index: -1;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 250px;
+    right:550px;
+    z-index: -1;
+}
+
+.cloud3 {
+    position: absolute;
+    top: 175px;
+    left: 175px;
+    z-index: -1;
+}
+
+#portrait {
+    display: block;
+    border-radius: 50%;
+    margin: 15px auto;
+    height: 150px;
+}
+
+#mountainruler {
+    margin: 0;
+}
